@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siddheshmankar10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10-VA0inoG2phU_kAhH-hbx1rVxXWGYq8/view?usp=sharing](https://drive.google.com/file/d/10-VA0inoG2phU_kAhH-hbx1rVxXWGYq8/view?usp=sharing)
+- 📄 Resume:- [https://drive.google.com/file/d/10-VA0inoG2phU_kAhH-hbx1rVxXWGYq8/view?usp=sharing](https://drive.google.com/file/d/10-VA0inoG2phU_kAhH-hbx1rVxXWGYq8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
