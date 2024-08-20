@@ -27,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshmankar&show_icons=true&locale=en&layout=compact" alt="siddheshmankar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshmankar&show_icons=true&locale=en" alt="siddheshmankar" /></p>
+<img src="https://t.bkit.co/w_66c490dc42543.gif" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshmankar&" alt="siddheshmankar" /></p>
